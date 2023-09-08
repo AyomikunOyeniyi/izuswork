@@ -194,4 +194,16 @@ a {
     position: static;
 }
 
-.
+.four, .five, .six {
+    justify-content: center;
+    align-items: center;
+}
+
+.deux {
+    text-align: center;
+    width: 230px;
+}
+
+.small {
+    font-size: 13px;
+}
